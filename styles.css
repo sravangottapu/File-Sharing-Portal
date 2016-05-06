@@ -1,0 +1,38 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://www.bhmpics.com/download/v_for_vendetta_logo-1920x1080.jpg');
+  height: 1080px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+.jumbotron .box {
+    color: ##F1F1F1;
+    border-right:100px;
+}
